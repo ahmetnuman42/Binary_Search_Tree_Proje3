@@ -21,4 +21,8 @@ Sıra ile dizide gezip büyükleri sağa küçükler sola şeklinde yerleştirme
 ## Oluşan Son Durum
 
 ![Son Durum](Binary_Search_Tree.png)
+---------------------
+[Patika Profilim](https://app.patika.dev/ahmettnuman)
+
+
 
